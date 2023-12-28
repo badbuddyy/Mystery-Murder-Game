@@ -1,4 +1,3 @@
-# Mystery-Murder-Game
 # Murder Mystery Game
 
 Welcome to the Murder Mystery Game, an interactive web-based adventure developed as part of the Flatiron School online workshop.
