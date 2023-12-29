@@ -1,3 +1,29 @@
+.index{
+	background-image: url(./images/creepy.jpg);
+
+}
+.intro{
+	
+	background-image: url(images/crimescene2.jpeg);
+}
+
+.livingroom {
+	background-image: url(./images/livingroom.jpeg);
+	
+}
+.Room1{
+	background-image: url(./images/room1.jpeg);
+}
+.Room2{
+	background-image: url(./images/room2.jpeg);
+}
+.Room3{
+	background-image: url(./images/room3.jpeg);
+}
+.Hallway{
+	background-image: url(./images/hallway.jpeg);
+}
+
 header{
 	position: fixed;
 	width: 100%;
@@ -97,10 +123,7 @@ button:hover{
 }
 
 
-.intro{
-	background-color: black;
-	background-image: url(images/crimescene2.jpeg);
-}
+
 .introMessage{
 	background-color: rgba(0, 0, 0, 0.7);
 	color: whitesmoke;
@@ -116,27 +139,6 @@ button:hover{
 	text-align: center;
 }
 
-
-.index{
-	background-image: url(./images/creepy.jpg);
-
-}
-.livingroom {
-	background-image: url(./images/livingroom.jpeg);
-	
-}
-.Room1{
-	background-image: url(./images/room1.jpeg);
-}
-.Room2{
-	background-image: url(./images/room2.jpeg);
-}
-.Room3{
-	background-image: url(./images/room3.jpeg);
-}
-.Hallway{
-	background-image: url(./images/hallway.jpeg);
-}
 .quit{
 	position: inherit;
 	text-align: right;
