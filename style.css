@@ -1,18 +1,23 @@
 .index{
 	background-image: url(./images/creepy.jpg);
+	background-color: black;
 
 }
 .intro{
 	
 	background-image: url(images/crimescene2.jpeg);
+	background-color: black;
+
 }
 
 .livingroom {
 	background-image: url(./images/livingroom.jpeg);
+	background-color: black;
 	
 }
 .Room1{
 	background-image: url(./images/old\ tech\ room.png);
+	background-color: black;
 }
 .Room2{
 	background-image: url(./images/room2.jpeg);
@@ -62,7 +67,7 @@ body{
 	width: 100%;
 	height: 100%;
 	font-family: 'Montserrat', sans-serif;
-	background: url(header.jpg) no-repeat center center fixed; 
+	background: url() no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
