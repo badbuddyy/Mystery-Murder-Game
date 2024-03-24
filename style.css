@@ -28,6 +28,9 @@
 .Hallway{
 	background-image: url(./images/hallway.jpeg);
 }
+.basement{
+	background-image: url(./images/basement.png);
+}
 
 header{
 	position: fixed;
