@@ -16,7 +16,7 @@
 	
 }
 .Room1{
-	background-image: url(./images/old\ tech\ room.png);
+	background-image: url(./images/room1.jpeg);
 	background-color: black;
 }
 .Room2{
@@ -28,7 +28,7 @@
 	background-color: black;
 }
 .Hallway{
-	background-clip: url(./images/murderHallway.jpeg);
+	background-image: url(./images/murderHallway.jpeg);
 	background-color: black;
 }
 .basement{
