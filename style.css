@@ -21,15 +21,19 @@
 }
 .Room2{
 	background-image: url(./images/room2.jpeg);
+	background-color: black;
 }
 .Room3{
 	background-image: url(./images/room3.jpeg);
+	background-color: black;
 }
 .Hallway{
-	background-image: url(./images/hallway.jpeg);
+	background-clip: url(./images/murderHallway.jpeg);
+	background-color: black;
 }
 .basement{
 	background-image: url(./images/basement.png);
+	background-color: black;
 }
 
 header{
